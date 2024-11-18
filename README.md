@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DVW-Design
-- 👀 I’m interested in Design, Design to code, CSS, Reaact/Node, mongoDB
-- 🌱 I’m currently learning Figma plug-ins & Api, mjml
+- 👀 I’m interested in Design, Design to code, CSS, Reaact/Node, mongoDB, 
+- 🌱 I’m currently learning Figma plug-ins & Api,Storybook, … 
 - 📫 How to reach me .david@dvw.design
 
 <!---
